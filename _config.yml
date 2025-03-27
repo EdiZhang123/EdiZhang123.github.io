@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Edi Zhang / Personal Website"
+title: "Edi Zhang"
 title_separator: "-"
 name: &name "Edi Zhang"
 description: &description "Student at UCLA"
@@ -22,7 +22,7 @@ repository: "edizhang123.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "profile.jpg"
   name: "Edi Zhang"
   pronouns: "he/him"
   bio: "UCLA student"
