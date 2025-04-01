@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv-json/
+title: "Resume"
+permalink: /resume-json/
 author_profile: false
 redirect_from:
   - /resume-json
